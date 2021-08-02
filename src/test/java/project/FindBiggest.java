@@ -5,5 +5,7 @@ public class FindBiggest {
         System.out.println("Find biggest number");
         System.out.println("Hello i can not find it");
         System.out.println("123456789");
+        System.out.println("added new line");
+        System.out.println("unstaged");
     }
 }
