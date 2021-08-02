@@ -3,6 +3,7 @@ package project;
 public class PrintAllChars {
     public static void main(String[] args) {
         printChars("hello");
+        printChars("Cybertek");
     }
 
     public static void printChars(String str){
